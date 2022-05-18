@@ -1,5 +1,5 @@
 ### Olá! eu sou o Lucas Braga 👋
-
+- 🎓 Sou estudante de ADS pela ULBRA Canoas no sexto semestre.
 - 🔭 hoje eu faço estagio na empresa PROCEMPA como dev angularJs
 - 🌱 Estou estudando ReactJs, Typescript
 - 😄 Pronouns: ele/dele
