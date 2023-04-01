@@ -10,5 +10,5 @@
     </a>
   </div>
   <div>
-    <img src="https://www.opencodez.com/wp-content/uploads/2018/02/Java-8-using-Examples.png" width="10">
+    <img src="https://www.opencodez.com/wp-content/uploads/2018/02/Java-8-using-Examples.png" width="100">
   </div>
