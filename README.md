@@ -1,9 +1,12 @@
 ### Olá! eu sou o Lucas Braga 👋
 - 🎓 Sou analista e desenvolvedor de Sistemas formado pela Universidade Luterana do Brasil - ULBRA - Canoas/RS
 - 🧠 Possuo conhecimento das Linguagens JAVA , Javascript, Typescript
-- 🌱 Estou estudando Testes para QA
+- 🌱 Estou estudando Python, Java Springboot, Api's
 - 😄 Pronouns: ele/dele
 - ✉️ lbins821@gmail.com / lucas.braga@rede.ulbra.br
+
+### Curso Atual
+- Python Backend Web Development Course (https://www.youtube.com/watch?v=jBzwzrDvZ18&t=3604s)
 
 <br>
 <div>
