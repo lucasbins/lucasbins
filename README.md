@@ -5,9 +5,6 @@
 - 😄 Pronouns: ele/dele
 - ✉️ lbins821@gmail.com / lucas.braga@rede.ulbra.br
 
-### Curso Atual
-- Python Backend Web Development Course (https://www.youtube.com/watch?v=jBzwzrDvZ18&t=3604s)
-
 <br>
 <div>
   <a href="https://www.linkedin.com/in/lucas-bins-braga/" target="_blank">
