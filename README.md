@@ -1,7 +1,7 @@
 ### Olá! eu sou o Lucas Braga 👋
 - 🎓 Sou analista e desenvolvedor de Sistemas formado pela Universidade Luterana do Brasil - ULBRA - Canoas/RS
-- 🧠 Possuo conhecimento das Linguagens Javascript, Typescript, HTML, CSS e Java
-- 🌱 Estou estudando Python, Java Springboot, Api's
+- 🧠 Possuo conhecimento das Linguagens Java e javascript
+- 🌱 Estou estudando JWT, kafka...
 - 😄 Pronouns: ele/dele
 - ✉️ lbins821@gmail.com / lucas.braga@rede.ulbra.br
 
@@ -18,12 +18,9 @@
   </a>
 </div>
 <br>
-<div style="position: absolute; right: 0; margin-right: 50px">
+<div style="position: absolute; right: 0; margin-right: 50">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40">
   <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="40">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40">
-</div>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40">
 </div>
   
