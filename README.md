@@ -4,6 +4,7 @@
 - 🌱 Estou estudando JWT, kafka...
 - 😄 Pronouns: ele/dele
 - ✉️ lbins821@gmail.com / lucas.braga@rede.ulbra.br
+- #30diasdecodigo
 
 <br>
 <div>
