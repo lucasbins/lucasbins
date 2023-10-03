@@ -4,7 +4,6 @@
 - 🌱 Estou estudando JWT, kafka...
 - 😄 Pronouns: ele/dele
 - ✉️ lbins821@gmail.com / lucas.braga@rede.ulbra.br
-- #30diasdecodigo
 
 <br>
 <div>
@@ -20,8 +19,12 @@
 </div>
 <br>
 <div style="position: absolute; right: 0; margin-right: 50">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="40" alt="Java">
-  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" width="40" alt="SpringBoot">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="40" alt="Docker">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50" alt="React">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" alt="Javascript">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" alt="Typescript">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" alt="firebase">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" alt="Java">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="50" alt="SpringBoot">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" alt="Docker">
 </div>
   
